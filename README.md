@@ -11,9 +11,9 @@
 ## Known Bugs
 
 ## Technologies Used
-###.HTML5
-###.CSS3
-###.Javascript
+* HTML5
+* CSS3
+* Javascript
 ### License
 *MIT licence*
 Copyright (c) 2022 
