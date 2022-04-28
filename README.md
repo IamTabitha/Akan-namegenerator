@@ -1,15 +1,12 @@
 # Akan Name Generator
 #### By Tabitha Wainaina
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is an Akan name generator . It generates an Akan name based on the day of the week and gender provided by the user.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+* You can clone the repository
+* You can view the webpage 
 ## Known Bugs
-
+The webpage does not reload automatically when the alert message is received
 ## Technologies Used
 * HTML5
 * CSS3
